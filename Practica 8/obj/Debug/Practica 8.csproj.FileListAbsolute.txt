@@ -1,0 +1,35 @@
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\bin\Debug\Practica 8.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\bin\Debug\Practica 8.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.Inscripcion.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.Properties.Resources.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.Verdana12Negro.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.GenerateResource.Cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoMay.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoMin.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoMayInic.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoEmail.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoHexa.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoNum.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.Calendario.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.BotonVerdana.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\bin\Debug\Practica 8.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\bin\Debug\Practica 8.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.csprojAssemblyReference.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.BotonVerdana.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoEmail.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoHexa.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoMay.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoMayInic.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoMin.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.CajaTextoNum.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.Calendario.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.Inscripcion.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.Properties.Resources.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica_8.Verdana12Negro.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.GenerateResource.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Práctica 8\Practica 8\Practica 8\obj\Debug\Practica 8.pdb

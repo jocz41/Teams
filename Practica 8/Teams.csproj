@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{114F9345-85A0-4FF0-A330-ED5DF7BD2D8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Practica_8</RootNamespace>
+    <AssemblyName>Practica 8</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Ph03nyx-Super-Mario-Flower-Ice.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BotonVerdana.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BotonVerdana.Designer.cs">
+      <DependentUpon>BotonVerdana.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CajaTextoEmail.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CajaTextoEmail.Designer.cs">
+      <DependentUpon>CajaTextoEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CajaTextoHexa.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CajaTextoHexa.Designer.cs">
+      <DependentUpon>CajaTextoHexa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CajaTextoMay.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CajaTextoMay.Designer.cs">
+      <DependentUpon>CajaTextoMay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CajaTextoMayInic.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CajaTextoMayInic.Designer.cs">
+      <DependentUpon>CajaTextoMayInic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CajaTextoMin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CajaTextoMin.Designer.cs">
+      <DependentUpon>CajaTextoMin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CajaTextoNum.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CajaTextoNum.Designer.cs">
+      <DependentUpon>CajaTextoNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calendario.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Calendario.Designer.cs">
+      <DependentUpon>Calendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ficha.cs" />
+    <Compile Include="Inscripcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inscripcion.Designer.cs">
+      <DependentUpon>Inscripcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Titular.cs" />
+    <Compile Include="Verdana12Negro.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Verdana12Negro.Designer.cs">
+      <DependentUpon>Verdana12Negro.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BotonVerdana.resx">
+      <DependentUpon>BotonVerdana.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CajaTextoEmail.resx">
+      <DependentUpon>CajaTextoEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CajaTextoHexa.resx">
+      <DependentUpon>CajaTextoHexa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CajaTextoMay.resx">
+      <DependentUpon>CajaTextoMay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CajaTextoMayInic.resx">
+      <DependentUpon>CajaTextoMayInic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CajaTextoMin.resx">
+      <DependentUpon>CajaTextoMin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CajaTextoNum.resx">
+      <DependentUpon>CajaTextoNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calendario.resx">
+      <DependentUpon>Calendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inscripcion.resx">
+      <DependentUpon>Inscripcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Verdana12Negro.resx">
+      <DependentUpon>Verdana12Negro.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Ph03nyx-Super-Mario-Flower-Ice.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
